@@ -12,19 +12,19 @@ div{
         width: 15%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
-        left: 35%;
+        left: 5%;
         top: 600px;
     }
 }
 
 @media (max-width: 575px){
     #fotodeperfil{
-        position: absolute;
-        width: 30%;
+        position: center;
+        width: 15%;
         border-radius: 100%;
         box-shadow: 3px 3px 3px grey;
         left: 33%;
-        top: 630px;
+        top: 950px;
     }
 }
 /*eiqueta nombre*/
